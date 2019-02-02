@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+body{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(88, 83, 83)80, 180, 180);
+    }
+    h1{
+border-top: 4px dotted lavenderblush;
+text-align: center;
+border-bottom: 2px solid peachpuff;
+border-left: 5px dashed green;
+font-family: 'Major Mono Display', monospace;
+
+    }
+    h2{
+color: rgb(104, 199, 167);
+font-weight: lighter;
+font-size: 30px;
+text-decoration: overline;
+font-style: italic;
+    }
+
+img{height:300px;
+margin: 0 auto}
+
+.centered {text-align: center;}
+
+.faded {opacity: .5;}
+
+.pink-text {color:pink;}
+
+.mammal {color: red;
+font-weight: bold;
+}
+
+.bird {color: blue;
+font-style: italic;}
+
+.fish {
+    color: orange;
+    text-decoration: underline;
+}
+
+.sloth {background-color: gray}
+.salmon {background-color: salmon}
+.tiger {background-color: sienna}
+.sheep {background-color: steelblue}
+
+.border {
+    border: 3px dotted plum;
+    border-radius: 5px;
+}
+
+.list {
+    border-top: 3px seagreen solid;
+    padding: 10px;
+    margin: 10px;
+    display: inline;
+}
+
+section{
+    border: 3px plum;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
